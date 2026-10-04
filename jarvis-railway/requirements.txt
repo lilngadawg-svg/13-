@@ -1,0 +1,5 @@
+discord.py>=2.4
+openai>=1.50
+python-dotenv
+certifi
+supermemory
